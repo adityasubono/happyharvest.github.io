@@ -1,0 +1,12 @@
+img {
+    border-radius: 5%;
+    width: 100%;
+
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+fieldset {
+    border-radius: 6%;
+    margin: 5px;
+}
